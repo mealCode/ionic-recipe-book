@@ -1,0 +1,7 @@
+{
+  "appId": "com.simple-recipe-app",
+  "appName": "ionic-starter-project",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

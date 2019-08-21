@@ -1,0 +1,7 @@
+{
+  "appId": "com.simplerecipeapp",
+  "appName": "Jeff Recipe Book",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
